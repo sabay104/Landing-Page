@@ -1,0 +1,25 @@
+.header{
+    background-color: #1F2937;
+    font-size: large;
+    color: white;
+    font-family: Roboto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+ul{
+    list-style-type: none;
+
+
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
