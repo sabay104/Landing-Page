@@ -7,7 +7,6 @@ body {
     background-color: #1F2937;
     font-size: large;
     color: white;
-    font-family: Roboto;
 
 
     display: flex;
@@ -20,8 +19,6 @@ body {
 
 ul{
     list-style-type: none;
-
-    
     display: flex;
     justify-content: space-between;
     gap: 8px;
@@ -35,8 +32,6 @@ a{
 
 .container1{
     display: flex;
-
-
     background-color: #1F2937;
     color: white;
     gap: 40px;
@@ -84,8 +79,28 @@ a{
     border: none;
     border-radius: 8px;
     background: deepskyblue;
-
     padding: 10px 24px;
     cursor: pointer;
 
+}
+
+
+.container2{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+
+}
+
+.image2{
+    width: 250px;
+    height: 100px;
+    background-color: white;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid
+}
+
+.info {
+    max-width: 200px;
 }
