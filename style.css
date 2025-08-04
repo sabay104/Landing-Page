@@ -30,7 +30,7 @@ a{
     color: white;
 }
 
-.container1{
+.container{
     display: flex;
     background-color: #1F2937;
     color: white;
@@ -85,7 +85,7 @@ a{
 }
 
 
-.container2{
+.box-section{
     padding: 40px;
     display: flex;
     justify-content: center;
@@ -102,8 +102,8 @@ a{
 }
 
 .image2{
-    width: 250px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: white;
     border-color: blue;
     border-width: 2px;
@@ -124,4 +124,37 @@ a{
 .section2-text {
     text-align: center;
     max-width: 250px;
+}
+
+.quote-section{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    padding: 80px 200px;
+
+
+
+    font-style: italic;
+
+}
+
+.section3-text{
+    max-width: 500px;
+    margin-bottom: 20px;
+    font-size: 36px;
+    color: #1f2937;
+
+}
+
+.quote-author{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    color: #1f2937;
+
+    align-self: flex-end;
+}
+
+.add-section{
+
 }
