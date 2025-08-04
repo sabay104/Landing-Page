@@ -156,5 +156,17 @@ a{
 }
 
 .add-section{
+    color: white;
+    background-color: deepskyblue;
+    padding: 20px 40px;
+    border-radius: 8px;
+    width: 700px;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-text p{
+    font-weight: bold;
 }
