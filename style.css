@@ -198,3 +198,11 @@ a{
     cursor: pointer;
     margin-left: 32px;
 }
+
+.footer{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;    color: white;
+    padding: 20px 0;
+}
