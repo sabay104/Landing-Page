@@ -3,7 +3,7 @@ Das Ziel ist es, eine vollständig funktionsfähige Landingpage basierend auf ei
 ## 🖼️ Designvorlagen
 
 ### Bild 1
-![Layout 1](Landing-Page/ColorAndFonts.png)
+![Layout 1](ColorAndFonts.png)
 
 ### Bild 2
-![Layout 2](Landing-Page/FullDesign.png)
+![Layout 2](FullDesign.png)
