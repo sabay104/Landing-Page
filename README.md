@@ -1,2 +1,9 @@
 # Landing-Page
-The goal is to build a fully functional landing page based on a provided design. It involves recreating a webpage using HTML and CSS, applying knowledge of layout, typography, and styling.
+Das Ziel ist es, eine vollständig funktionsfähige Landingpage basierend auf einem vorgegebenen Design zu erstellen. Dabei geht es darum, eine Webseite mit HTML und CSS nachzubauen und dabei Kenntnisse in Layout und Styling anzuwenden.
+## 🖼️ Designvorlagen
+
+### Bild 1
+![Layout 1](Landing-Page/ColorAndFonts.png)
+
+### Bild 2
+![Layout 2](Landing-Page/FullDesign.png)
